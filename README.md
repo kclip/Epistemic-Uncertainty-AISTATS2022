@@ -1,5 +1,7 @@
 ## Code for Information-Theoretic Analysis of Epistemic Uncertainty in Bayesian Meta-learning
 
+This repository contains code for "[Information-Theoretic Analysis of Epistemic Uncertainty in Bayesian Meta-learning](https://arxiv.org/pdf/2106.00252.pdf)" - Sharu Theresa Jose, Sangwoo Park, and Osvaldo Simeone
+
 ### Dependencies
 
 This program is written in python 3.8 and uses PyTorch 1.8.1.
