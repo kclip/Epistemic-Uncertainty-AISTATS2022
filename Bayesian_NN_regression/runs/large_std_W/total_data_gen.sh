@@ -1,0 +1,1 @@
+python ../../datagen.py --std_W 1 --path_for_total_dataset '../../bnn_dataset_obs_noise_w_var_1/'

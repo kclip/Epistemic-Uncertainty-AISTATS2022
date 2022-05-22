@@ -1,0 +1,1 @@
+python ../../mi_hyper.py --exp_mode 0  --smile_tau 1 --path_for_total_dataset '../../bnn_dataset_obs_noise_w_var_0_01/' --results_path_name '/small_std_W/' --num_indep_exp_total 5
